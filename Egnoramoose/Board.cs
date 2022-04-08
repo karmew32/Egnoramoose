@@ -134,7 +134,6 @@ namespace Egnoramoose
                                 {
                                     Space secondNeighbor = (Space)secondObj;
                                     if (secondNeighbor.State == SpaceState.VACANT) return true;
-
                                 }
                             }
                         }
