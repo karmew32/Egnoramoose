@@ -1,0 +1,10 @@
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\bin\Debug\Egnoramoose.exe.config
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\bin\Debug\Egnoramoose.exe
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\bin\Debug\Egnoramoose.pdb
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\obj\Debug\Egnoramoose.csprojAssemblyReference.cache
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\obj\Debug\Egnoramoose.Properties.Resources.resources
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\obj\Debug\Egnoramoose.csproj.GenerateResource.cache
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\obj\Debug\Egnoramoose.csproj.CoreCompileInputs.cache
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\obj\Debug\Egnoramoose.exe
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\obj\Debug\Egnoramoose.pdb
+C:\Users\karme\source\repos\Egnoramoose\Egnoramoose\obj\Debug\Egnoramoose.Form1.resources
