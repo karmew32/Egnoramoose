@@ -8,13 +8,6 @@ using System.Threading.Tasks;
 
 namespace Egnoramoose
 {
-    public enum ClickedSpaceAction
-    {
-        NOTHING,
-        PEG_SELECTED,
-        PEG_DESELECTED
-
-    }
     public class Board
     {
         private const int ROWS = 5;
