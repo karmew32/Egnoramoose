@@ -255,7 +255,6 @@ namespace Egnoramoose
             {
                 return null;
             }
-            
         }
 
         private Space GetRightSibling(Space space)
@@ -268,7 +267,6 @@ namespace Egnoramoose
             {
                 return null;
             }
-            
         }
 
         private Space GetLeftChild(Space space)
@@ -281,7 +279,6 @@ namespace Egnoramoose
             {
                 return null;
             }
-            
         }
 
         private Space GetRightChild(Space space)
@@ -294,7 +291,6 @@ namespace Egnoramoose
             {
                 return null;
             }
-            
         }
     }
 }
