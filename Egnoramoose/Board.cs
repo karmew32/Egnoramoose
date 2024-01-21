@@ -34,11 +34,13 @@ namespace Egnoramoose
                 {
                     int x = X_INITIAL - (X_OFFSET * i) + (X_OFFSET * 2 * j);
 
-                    int colorIndex = new Random(Guid.NewGuid().GetHashCode()).Next(colors.Length);
-                    while (colorOccurrences[colorIndex] == 5)
+                    int colorIndex;
+                    do
                     {
                         colorIndex = new Random(Guid.NewGuid().GetHashCode()).Next(colors.Length);
-                    }
+                    } 
+                    while (colorOccurrences[colorIndex] == 5);
+
                     colorOccurrences[colorIndex]++;
                     int index = i + j + (i * (i - 1) / 2);
                     SpaceState state = index == vacantSpaceIndex ? SpaceState.VACANT : SpaceState.OCCUPIED;
